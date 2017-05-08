@@ -1,0 +1,29 @@
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe.config
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.dll
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.xml
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\AppServicesSvcBusQWnWoSessions.csprojResolveAssemblyReference.cache
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe.config
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.dll
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.xml
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Sender.exe.config
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Microsoft.ServiceBus.dll
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Microsoft.ServiceBus.xml
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\obj\Debug\AppServicesSvcBusQWnWoSessions.csprojResolveAssemblyReference.cache
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\obj\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Azure Service Bus Messaging with Queues using Sessions\C#\AppServicesSvcBusQWnWoSessions\obj\Debug\Sender.pdb

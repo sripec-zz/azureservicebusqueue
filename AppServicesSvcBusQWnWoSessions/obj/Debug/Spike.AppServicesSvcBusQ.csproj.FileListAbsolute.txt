@@ -1,0 +1,20 @@
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe.config
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Sender.pdb
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.dll
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.xml
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\obj\Debug\Spike.AppServicesSvcBusQ.csprojResolveAssemblyReference.cache
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\obj\Debug\Sender.exe
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\obj\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe.config
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Sender.pdb
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.dll
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.xml
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Git\POCs\ServiceBus POC\Next Steps  Azure Service Bus Messaging with Queues using Sessions\C#\Spike.AppServicesSvcBusQ\obj\Debug\Spike.AppServicesSvcBusQ.csprojResolveAssemblyReference.cache
